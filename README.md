@@ -1,6 +1,35 @@
-# Getting Started with Create React App
+🌦️ Weather Intelligence App
+Live Demo: <https://pudoma-weather-app.netlify.app/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Overview
+A dynamic, real-time weather tracking application built to demonstrate API integration, asynchronous data handling, and responsive UI design. This project illustrates the transition of my 15+ years of operational leadership into scalable software solutions.
+
+Key Technical Features
+Real-Time Data Fetching: Integrated OpenWeather API using asynchronous JavaScript and React hooks for seamless, live data retrieval.
+
+Dynamic State Management: Developed logic to update UI components and visual assets based on real-time weather conditions.
+
+AI-Assisted Development: Leveraged Generative AI (Claude/ChatGPT) for logic brainstorming, code refactoring, and optimizing error-handling patterns.
+
+Mobile-First Design: Engineered with a responsive layout to ensure 100% usability across all device types.
+
+Tech Stack
+Frontend: React.js, CSS3, HTML5
+
+API: OpenWeatherMap API
+
+Deployment: Netlify
+
+Development Tools: VS Code, Git/GitHub
+
+
+
+
+
+
+
+
+
 
 ## Available Scripts
 
