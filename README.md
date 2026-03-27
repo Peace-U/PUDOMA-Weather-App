@@ -1,8 +1,8 @@
 🌦️ Weather Intelligence App
 Live Demo: <https://pudoma-weather-app.netlify.app/>
 
-Overview
-A dynamic, real-time weather tracking application built to demonstrate API integration, asynchronous data handling, and responsive UI design. This project illustrates the transition of my 15+ years of operational leadership into scalable software solutions.
+
+A dynamic, real-time weather tracking application built to demonstrate API integration, asynchronous data handling, and responsive UI design. 
 
 Key Technical Features
 Real-Time Data Fetching: Integrated OpenWeather API using asynchronous JavaScript and React hooks for seamless, live data retrieval.
